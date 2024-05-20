@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-04-28 062259](https://github.com/dhivyadharshini2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979490/38a6522c-3175-483f-8317-df60a305fc81)
+
+
+### Name: Narendran K
+### Register Number: 212223230135
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
